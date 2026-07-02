@@ -14,7 +14,10 @@ sudo apt-get update
 sudo apt-get install -y ca-certificates curl
 sudo install -d -m 0755 /etc/apt/keyrings
 curl -fsSL https://jbearak.github.io/apt-raven/raven-archive-keyring.gpg \
-  | sudo tee /etc/apt/keyrings/raven-archive-keyring.gpg >/dev/null
+  -o /tmp/raven-archive-keyring.gpg
+echo "aaaee9d0c6d944091d1a78d8aeb4f93f59dc713ee1f218052add12b0d7c743cd  /tmp/raven-archive-keyring.gpg" \
+  | sha256sum -c -
+sudo install -m 0644 /tmp/raven-archive-keyring.gpg /etc/apt/keyrings/raven-archive-keyring.gpg
 echo "deb [signed-by=/etc/apt/keyrings/raven-archive-keyring.gpg] https://jbearak.github.io/apt-raven stable main" \
   | sudo tee /etc/apt/sources.list.d/raven.list >/dev/null
 sudo apt-get update
