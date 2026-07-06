@@ -1,0 +1,18 @@
+Origin: Raven
+Label: Raven
+Suite: stable
+Codename: stable
+Date: Mon, 06 Jul 2026 00:21:13 +0000
+Architectures: amd64 arm64
+Components: main
+Description: Raven apt repository
+MD5Sum:
+ e8ae8ffee3a207b5de25c91b7d30cb90              632 main/binary-amd64/Packages
+ 1cae21c6ba01a5a50c5cfe794b522895              457 main/binary-amd64/Packages.gz
+ f5d61d47848cc5a333f8a8297b6bdaac              632 main/binary-arm64/Packages
+ fd57eb01d01513ae2adc436d05446891              463 main/binary-arm64/Packages.gz
+SHA256:
+ a5823797e8f29bec42c683510b9d996fe095420a064a61b85fc4b7b98f5fe4d9              632 main/binary-amd64/Packages
+ 681563f886d62cc3257a789996978098564ea3d765d63fe923ee7e70c7f6dd91              457 main/binary-amd64/Packages.gz
+ ae2c1853049a1153553055b3ff44f1ee652af98487221cfb2a1c80d48c3c7f50              632 main/binary-arm64/Packages
+ a77b5bb0109c510cd109ab336e0e116f07d94adf2f7d3e8d5c53b063a78b8d62              463 main/binary-arm64/Packages.gz
