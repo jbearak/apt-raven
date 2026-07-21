@@ -52,3 +52,21 @@ Description: Static analyzer and language server for R
  Raven resolves R scope statically for editor language intelligence and
  headless CI checks.
 
+Package: raven
+Version: 0.16.0-1
+Architecture: amd64
+Maintainer: Jonathan Marc Bearak <jonathan@bearak.net>
+Installed-Size: 21736
+Depends: ca-certificates, curl, libc6 (>= 2.34)
+Filename: pool/main/r/raven/raven_0.16.0-1_amd64.deb
+Size: 5709888
+MD5sum: 6331d9787767ba1bad8529a970987cf8
+SHA1: 9ff546b979dcf05e7019d6bf9d6886ee6d9012b6
+SHA256: 013415c98f35cc0e393afddfad735f31aa4f0497953888d940968a70c50694d8
+Section: devel
+Priority: optional
+Homepage: https://github.com/jbearak/raven
+Description: Static analyzer and language server for R
+ Raven resolves R scope statically for editor language intelligence and
+ headless CI checks.
+

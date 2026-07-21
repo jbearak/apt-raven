@@ -5,24 +5,24 @@ Origin: Raven
 Label: Raven
 Suite: stable
 Codename: stable
-Date: Sun, 12 Jul 2026 17:58:01 +0000
+Date: Tue, 21 Jul 2026 13:25:37 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Raven apt repository
 MD5Sum:
- ab746afef9c20795357f9236aacdb254             1896 main/binary-amd64/Packages
- b50c5b8ceb4d84884ef2e23854981cf5              691 main/binary-amd64/Packages.gz
- 627e5b1beb0adcda5e2dafe226eca052             1896 main/binary-arm64/Packages
- 5647163116615655bc2a9ce225df1b92              692 main/binary-arm64/Packages.gz
+ 7359fbeee9e8a24840a6b3b4a6cf3b37             2528 main/binary-amd64/Packages
+ de256642251b47690ebd8c6eadcaafd0              800 main/binary-amd64/Packages.gz
+ a584f2aa5dd913c8af5892c99acf01ee             2528 main/binary-arm64/Packages
+ 3363640eb449bbe75a20286d0371f463              802 main/binary-arm64/Packages.gz
 SHA256:
- b1227861adedc85d4b0d111cfb69917bfca98470b02c1c8114e72a57697175ff             1896 main/binary-amd64/Packages
- 2a8b00ca0a4ecd980c6fc1539e419ce982515590e4757571b63ff06bdf5d7ca9              691 main/binary-amd64/Packages.gz
- 13eb7f133fa4485ff86df33d8991d8d80c4d0ebcb72871c10aca7ad5755651f4             1896 main/binary-arm64/Packages
- 721e1048f5597ae94f730a6394e890edd5aa73d1630df94ddd20a8b36466e578              692 main/binary-arm64/Packages.gz
+ 71742375b3ba4b7911ae12b6cea26e8a3b6c27a0bef9050eb5ce56815cc62089             2528 main/binary-amd64/Packages
+ 22e3c2d7ab8bef05f91d0b953c63c689d800a01e4540407e20fb045918efb426              800 main/binary-amd64/Packages.gz
+ aa8bb02889904eff4e3bd377ed148e5f62dfccbc7087f6e14a291350df4ac295             2528 main/binary-arm64/Packages
+ f3f01399101d1be5bc5887942b1aef0a21e5fe7252bb07cef9e1a2c7383c232d              802 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQph0dkq6AFG+12v/q2eaL+3PyDRAUCalPVqQAKCRC2eaL+3PyD
-ROF5AQCGL6IVQpzL9AlyenxSN+EVWh8kNtsN9xiQxiqElO2hqwD+NArQAbr2i7bl
-EbAnrxlSK/iPQbsQuJdtz1PphyHrEAQ=
-=cFA7
+iHUEARYKAB0WIQQph0dkq6AFG+12v/q2eaL+3PyDRAUCal9zUQAKCRC2eaL+3PyD
+RERLAP9QlcKVg+Q2IJYiH2LPck9yijbeMdSOeCfy9DTo6d+sbQD+KtiVXL1/h1Eg
+pBwYC5V12zmUZmFtbqRXfNshOIB/wg0=
+=GbcN
 -----END PGP SIGNATURE-----
