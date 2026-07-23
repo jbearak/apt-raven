@@ -5,24 +5,24 @@ Origin: Raven
 Label: Raven
 Suite: stable
 Codename: stable
-Date: Tue, 21 Jul 2026 21:46:25 +0000
+Date: Thu, 23 Jul 2026 17:14:01 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Raven apt repository
 MD5Sum:
- 0e6e8e07999f8fe0a8f2b0a8af450b0f             2528 main/binary-amd64/Packages
- bc0e00ba447d1a6194505f9091ea4272              804 main/binary-amd64/Packages.gz
- 4fe8cf31fffb1873e3443529d500efc9             2528 main/binary-arm64/Packages
- 11f0bb6f471caced8b37370d34da25b5              802 main/binary-arm64/Packages.gz
+ d92b048ccc94fa67f1d5fdccf7d7175d             3160 main/binary-amd64/Packages
+ aaac4f1f4236942371d0aada9d910825              910 main/binary-amd64/Packages.gz
+ 5d7f9bc8ed888c10e37e66d0518cfb99             3160 main/binary-arm64/Packages
+ 244a05753eceb49bab22d7ff3a52071f              912 main/binary-arm64/Packages.gz
 SHA256:
- 9154f4f94a82d8f4b54967979a45c5783618ee3e00b830893f9cc30699283c62             2528 main/binary-amd64/Packages
- 324abfe710adda5d1e7d336b2a531adda9cf309ae632723efa45318e10aa958f              804 main/binary-amd64/Packages.gz
- 71417b77ec8d4247e80db32572390f1c9954b0ce3e075d2137a6f021d6301bcf             2528 main/binary-arm64/Packages
- 8b4b5a62a1e4dfc3a2f74278e77ff26e7c233d00eb95d0d89019b06a1f44cae3              802 main/binary-arm64/Packages.gz
+ 794b608f40f2366f37120df63dfb4cd959765becca591b6d9165a176495e39e3             3160 main/binary-amd64/Packages
+ fc947579a4fb0cee51b5e7231e72826fc9e5c12dad68af9a507ecefe22ed1086              910 main/binary-amd64/Packages.gz
+ aea7398ed077e19b58549ba2da3f9de82a9efea253ed652ea8ee224f93d7b8dd             3160 main/binary-arm64/Packages
+ 2af165e89700a003cdc0dc70f7300f9f0e92efd3e4ca9677e7e185e94ccaca9e              912 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQph0dkq6AFG+12v/q2eaL+3PyDRAUCal/osQAKCRC2eaL+3PyD
-RKrLAQC/JhCrTjQ2CAey4L5/fSetJelo4Df6oRwPL1DBR0nzngD/XRaHX0Bvm3P1
-3HR8DzaMPdA44HaqzoBWN5hknZuF8gM=
-=0TBj
+iHUEARYKAB0WIQQph0dkq6AFG+12v/q2eaL+3PyDRAUCamJL2QAKCRC2eaL+3PyD
+RDyIAQDk39ieXlGXi+sbAHceE4GgQG2f+gi8LTCu0o96CGC/8gEAyFmtGGBvZ0Fn
+FtWGPM59JItW4m465cBIfGrWvjNaOAE=
+=nAoO
 -----END PGP SIGNATURE-----
