@@ -2,17 +2,17 @@ Origin: Raven
 Label: Raven
 Suite: stable
 Codename: stable
-Date: Thu, 23 Jul 2026 17:14:01 +0000
+Date: Mon, 31 Aug 2026 18:00:41 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Raven apt repository
 MD5Sum:
- d92b048ccc94fa67f1d5fdccf7d7175d             3160 main/binary-amd64/Packages
- aaac4f1f4236942371d0aada9d910825              910 main/binary-amd64/Packages.gz
- 5d7f9bc8ed888c10e37e66d0518cfb99             3160 main/binary-arm64/Packages
- 244a05753eceb49bab22d7ff3a52071f              912 main/binary-arm64/Packages.gz
+ 97215ceb6971fef5faa78ddb3f49b000             3792 main/binary-amd64/Packages
+ 1336d53a3f897aa9a7dda693bd260f34             1026 main/binary-amd64/Packages.gz
+ ec5adfbe4b9f9e4c3ac9a3f29a1d7ed6             3792 main/binary-arm64/Packages
+ f08b26052e60728ff14d3e8f23f230c5             1026 main/binary-arm64/Packages.gz
 SHA256:
- 794b608f40f2366f37120df63dfb4cd959765becca591b6d9165a176495e39e3             3160 main/binary-amd64/Packages
- fc947579a4fb0cee51b5e7231e72826fc9e5c12dad68af9a507ecefe22ed1086              910 main/binary-amd64/Packages.gz
- aea7398ed077e19b58549ba2da3f9de82a9efea253ed652ea8ee224f93d7b8dd             3160 main/binary-arm64/Packages
- 2af165e89700a003cdc0dc70f7300f9f0e92efd3e4ca9677e7e185e94ccaca9e              912 main/binary-arm64/Packages.gz
+ db89f2de4923fe71c0cb4c39b2927f6b5f08356266c6c4242e84e546fd95ed04             3792 main/binary-amd64/Packages
+ 06d864250ca581828a3d136e45fd2ea76caebbab1d57c404d8f66b9e599f04b0             1026 main/binary-amd64/Packages.gz
+ e9883ae6ff0fd6bcfff21742953d7be4b129eec257e19db8c97c0b94aeaa3076             3792 main/binary-arm64/Packages
+ 6a058f35a22960f7847762f15c2a595f5537a0b520e61b7f9ce827307c014195             1026 main/binary-arm64/Packages.gz
