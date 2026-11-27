@@ -5,24 +5,24 @@ Origin: Raven
 Label: Raven
 Suite: stable
 Codename: stable
-Date: Thu, 17 Sep 2026 14:42:56 +0000
+Date: Fri, 27 Nov 2026 21:45:35 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Raven apt repository
 MD5Sum:
- 786caa935da1643031b6a5c0cb9e4963             6320 main/binary-amd64/Packages
- cc0c6a37d2942d66069b7515f8e97e4d             1455 main/binary-amd64/Packages.gz
- 6e06a144226a085d4d9eade1b3521671             6320 main/binary-arm64/Packages
- 7371a8f8bf4da3ba2aca1f70e4b18158             1460 main/binary-arm64/Packages.gz
+ bbe0ead729df1f0b0c883dc019ac97e1             6952 main/binary-amd64/Packages
+ 0dc8e501141ce76b1dfb01c82013cdab             1564 main/binary-amd64/Packages.gz
+ ff4a3a6ad27fe09fb469d40f4876a511             6952 main/binary-arm64/Packages
+ 3533a8f7feda57c98fcacfd06d6c05f2             1568 main/binary-arm64/Packages.gz
 SHA256:
- 95029c73db4683c70ffb4ba34eddea8ecbb065675c754ae1b54002d5530b88dc             6320 main/binary-amd64/Packages
- e30109ee75faeca65b3cc5ba2ecd228967cfa8fa520ea475c7f40a421236266a             1455 main/binary-amd64/Packages.gz
- 4c21eced3d807c4848bc935c12c1d5356657efc966996eb0f3aafb46ef2718fd             6320 main/binary-arm64/Packages
- 06131e23451096e6cf0498ed9166f15def46fe254ea75ac573d495a9aafecb0a             1460 main/binary-arm64/Packages.gz
+ 8a8cea9d132ae9c197e3b9e2dfa561455f5f2161fc80350c5109bd67903ef596             6952 main/binary-amd64/Packages
+ 684da5f642529beca3994bbc065245436507fff17f7a570e020acc9598553c2c             1564 main/binary-amd64/Packages.gz
+ a52cc933f074c0e37da62301ff12f277a39f284c6cd535e2574715b9359fabf8             6952 main/binary-arm64/Packages
+ 5574e53271e51efe135c4ab75981b0cc19955efedd36ea5c0ba53a62566dafa1             1568 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQph0dkq6AFG+12v/q2eaL+3PyDRAUCaqv8cAAKCRC2eaL+3PyD
-ROjYAQDHX3qo/08FnnsNRhmXVHhnOtNSX2rUqz8wY1M063N81AD/VeIZjRdIN5Tm
-WNGDRSC8l+p/GB3FycokKgfRO8TZUwQ=
-=gElU
+iHUEARYKAB0WIQQph0dkq6AFG+12v/q2eaL+3PyDRAUCawn5/wAKCRC2eaL+3PyD
+RNg3AQCt3U9zfsnGqQk2/uWlwp93iTA/cqcx/+i+QyBiES04hAEAx7o59nmZ/KBH
+8ew6Xmw4H/+nq9ehZG7VmLrLDevGAg8=
+=mYLN
 -----END PGP SIGNATURE-----
